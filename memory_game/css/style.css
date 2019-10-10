@@ -43,6 +43,24 @@ a {
     border-bottom: 2px solid transparent;
 }
 
+input {
+	font-family: "Raleway", serif;
+    font-weight: 600;
+	margin: 0 20px;
+	color: #ffffff;
+    letter-spacing: 1px;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: #00A6B3;
+    border: none;
+    border-bottom: 2px solid transparent;
+
+}
+
+input:hover {
+    border-color: white;
+}
+
 a:hover {
     border-color: white;
 }
